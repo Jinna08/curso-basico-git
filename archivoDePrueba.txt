@@ -1,1 +1,4 @@
-Agregamos algunos cambios que solo se veran reflejados en este branch y no hacer un merge. 
+Agregamos algunos cambios que solo se veran reflejados en este branch y no hacer un merge.
+
+Contenido adicional agregado en el branch2
+ 
